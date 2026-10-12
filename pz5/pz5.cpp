@@ -18,25 +18,23 @@ using namespace std;
 //     return 0;
 // }
 
-// while
+// do while
 
 // int main() {
 //     double x, y;
 //     cin >> x >> y;
 
 //     int day = 1;
-//     if (x < y) {
-//         do {
-//             x *= 1.1;
-//             day++;
-//         } while (x < y);
-//     }
+//     do {
+//         x *= 1.1;
+//         day++;
+//     } while (x < y);
 
 //     cout << day << endl;
 //     return 0;
 // }
 
-// do while
+// for
 
 int main() {
     double x, y;
