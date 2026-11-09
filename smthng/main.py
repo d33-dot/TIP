@@ -1,0 +1,6 @@
+print('Якубов Денис эфбо-08-26')
+a = int(input())
+b = int(input())
+print(a+b)
+x = int(input())
+print(x**5 - 2*x**3 -1)
